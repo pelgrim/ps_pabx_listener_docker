@@ -9,7 +9,7 @@ It was developed and tested in the following environment:
 ## How to use it
 First, compose your PsPabxListener command, like:
 
-      ps_pabx -s pabx.example.com -u user -p password -d /data
+      cmd='ps_pabx -s pabx.example.com -u user -p password -d /data'
 
 Then, run your container like this:
 
