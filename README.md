@@ -1,5 +1,5 @@
 # PsPabxListener Docker Image
-Docker image for the [PsPabxListener](http://github.com/pelgrim/pps_pabx_listener) command line utility.
+Docker image for the [PsPabxListener](http://github.com/pelgrim/ps_pabx_listener) command line utility.
 
 ## Environment
 It was developed and tested in the following environment:
